@@ -1,1 +1,18 @@
-Replace this with a list of your favorite things.
+* OS
+  * Linux
+    *  Ubuntu
+    *  Debian
+    *  Centos
+    *  BSD
+  * Windows
+    * Windows Server
+
+* Cloud
+  * AWS
+    * EC2
+    * VPS
+    * IAM
+  * Azure
+    * Compute
+    * Networking
+    * Identity
